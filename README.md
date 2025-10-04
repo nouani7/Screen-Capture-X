@@ -1,11 +1,6 @@
 # Screen-Capture-X
 Screen Capture X is a fast, smart, and lightweight tool designed to capture your screen with precision. Take snapshots, record videos, highlight areas, and share instantly — all in one sleek interface. Perfect for developers, creators, and everyday users who want power and simplicity in a single click.
 
-## **Screen Capture X – Capture Perfection in Every Pixel**
-
-**Screen Capture X** is a fast, intelligent, and precision-focused screenshot tool designed to make capturing your screen effortless and professional.  
-Whether you need to document a workflow, share an idea, or save something important, Screen Capture X gives you the clarity and control you need — instantly.
-
 ----------
 
 ### ✨ **Key Features**
@@ -32,6 +27,11 @@ Runs silently in the background, optimized for performance with minimal memory u
 Save images in PNG, JPG, or BMP with full control over quality and compression.
 
 ----------
+
+## **Screen Capture X – Capture Perfection in Every Pixel**
+
+**Screen Capture X** is a fast, intelligent, and precision-focused screenshot tool designed to make capturing your screen effortless and professional.  
+Whether you need to document a workflow, share an idea, or save something important, Screen Capture X gives you the clarity and control you need — instantly.
 
 ### 💡 **Why Screen Capture X?**
 
