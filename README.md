@@ -1,6 +1,12 @@
 # Screen-Capture-X
 Screen Capture X is a fast, smart, and lightweight tool designed to capture your screen with precision. Take snapshots, record videos, highlight areas, and share instantly — all in one sleek interface. Perfect for developers, creators, and everyday users who want power and simplicity in a single click.
 
+
+<img width="337" height="168" alt="Untitled-1" src="https://github.com/user-attachments/assets/eeb58bbc-175a-42d1-acc2-2e0754b2c549" />
+
+
+<img width="611" height="135" alt="Untitled-2" src="https://github.com/user-attachments/assets/85750c7a-e8a4-4bff-bd05-fb6f434bc543" />
+
 ----------
 
 ### ✨ **Key Features**
